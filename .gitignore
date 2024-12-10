@@ -5,3 +5,4 @@
 *.orig
 *.rej
 .vscode
+.idea
